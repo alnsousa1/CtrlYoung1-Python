@@ -1,4 +1,4 @@
 # CtrlYoung1-Python
-## Teste
-### Teste
 
+Olá, meu nome é Allan e neste repositório, estarei colocando algumas atividades em Python, que é a linguagem que estou aprendendo.
+testando testando testando
